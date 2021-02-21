@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SmartishEnemyMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="7" Column="37" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BulletMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SmartishEnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FindPath.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SceneHandling.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ForceChildLocation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UpdateTime.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DisplayPauseScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShieldAvailable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DisplayHud.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DrawLives.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FadeToBlue.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MazeGeneration.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CellLighting.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
